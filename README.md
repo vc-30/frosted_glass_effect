@@ -2,13 +2,13 @@
 
 #### Results:
 <p align="center">
-  <img src="./images/Flower_Input.png"/> 
+  <img src="./images/Flower_Input.PNG"/> 
 </p>
 
 <p align="center">Fig. 1 Input image</p>
 
 <p align="center">
-    <img src="./images/Frosted_Output.png"/>
+    <img src="./images/Frosted_Output.PNG"/>
 </p>
 
 <p align="center">Fig. 2 Output image with frosted glass effect</p>
